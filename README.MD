@@ -14,7 +14,7 @@
 https://amiedawn.github.io/horiseon/
 
 ## Screenshot
-![screenshot](screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ## Contribution
 Made with ❤️ by Amie Carroll
