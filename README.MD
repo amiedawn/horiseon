@@ -14,7 +14,7 @@
 https://amiedawn.github.io/horiseon/
 
 ## Screenshot
-![ScreenShot](screenshot.png)
+![image](screenshot.PNG)
 <!-- my TA Raj told me to use this for screenshot and it works in preview :) -->
 
 ## Contribution
